@@ -8,7 +8,7 @@ public class PracticalNo3 {
 
      
 
-        // Volume of a cube with side length 5
+        // Volume of a cube 
         System.out.println("For Cube");
         System.out.println("-----------------------------------------------------------------");
         System.out.print("Enter the side of the cube: ");
@@ -16,7 +16,7 @@ public class PracticalNo3 {
         Double cubeVolume = calculator.calculateVolume(sideLength);
         System.out.println("Volume of cube: " + cubeVolume);
         System.out.println("");
-        // Volume of a cylinder with radius 3 and height 4
+        // Volume of a cylinder 
         System.out.println("For Cylinder");
         System.out.println("-----------------------------------------------------------------");
         System.out.print("Enter the radius of the cylinder: ");
@@ -27,7 +27,7 @@ public class PracticalNo3 {
         System.out.println("Volume of cylinder: " + cylinderVolume);
         System.out.println("");
 
-        // Volume of a box with length 2, width 3, and height 4
+        // Volume of a box 
         System.out.println("For Box");
         System.out.println("-----------------------------------------------------------------");
         System.out.print("Enter the length of box: ");
