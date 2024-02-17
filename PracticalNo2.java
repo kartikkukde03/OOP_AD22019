@@ -1,4 +1,6 @@
-/*Aim: 
+/*Aim:  Raghav is assigned with the task to develop a code for finding out the perimeter and area of a circle given a 
+        value of radius. He should use Math.PI constant in his program. If radius is zero or less than zero then print " 
+        please enter non zero positive number ". Can you help raghav for developing the code
   Author: Kartik Kukde
   Version:2.0
   Date: 13 feb 2024
