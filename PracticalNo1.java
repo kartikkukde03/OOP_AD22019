@@ -1,5 +1,5 @@
 /*Aim: Create two objects of class ‘CompanyData’, one is with a default constructor and another one using a 
-       parameterized constructor to display the output asName Employee, Age of Employee, Gender of 
+       parameterized constructor to display the output as Name Employee, Age of Employee, Gender of 
        Employee ,Employee ID
   Author: Kartik Kukde
   Version:1.0
