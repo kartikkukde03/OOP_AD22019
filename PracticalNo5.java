@@ -1,5 +1,5 @@
 class Emerging_Technologies
-{
+ {
     String president = "Himanshi Kawade";
     String vice_president = "Himanshu Shrivastav";
     String treasurer = "Yash Virulkar";
@@ -7,6 +7,9 @@ class Emerging_Technologies
     String joint_scretary = "Mayank Hirekhan";
     
     void display()
+
+
+    
     {
         System.out.println("This is Super Class");
         System.out.println("Forum info of Emerging Technology: \n");
@@ -18,7 +21,7 @@ class Emerging_Technologies
 
     }
 
-}
+ }
 
 class AIML extends Emerging_Technologies
   {
@@ -38,7 +41,7 @@ class AIML extends Emerging_Technologies
     }
 
 
-  }
+}
 
 
   class AIDS extends Emerging_Technologies
