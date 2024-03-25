@@ -12,7 +12,7 @@ class PracticalNo7{
             System.out.println("The result of division is : "+solution.divide(10, 5));  // Output: 2
             //System.out.println(solution.divide(10, 0));  // Exception: Division by zero
             //System.out.println(solution.divide(21, 1));  // Output: 2147483647
-            System.out.println("The result of division is : "+solution.divide(2147483648, 2));  // Exception: Result out of range for 32-bit signed integer
+            System.out.println("The result of division is : "+solution.divide(2147483, 2));  // Exception: Result out of range for 32-bit signed integer
             solution.validate(20);  // Output: Welcome to vote code in java
             solution.validate(15);  // Exception: Age is less than 18
         } catch (Exception e) {
